@@ -1,6 +1,6 @@
 <h1 style="font-weight: bold;">Blog Site</h1>
 <h3>A simple blog site where you can post content and recieve informative tidbits.</h3>
-<img src="blog-img1.png">
+<a href="https://sleepy-tundra-85499.herokuapp.com/><img src="blog-img1.png"></a>
 
 <h2 style="font-weight: bold;">Prerequisites</h2>
 <p><a href="https://nodejs.org/en/docs/">▶ </a>Node.JS with Express.JS</p>
